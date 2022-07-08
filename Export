@@ -1,0 +1,27 @@
+[ID: 1
+Name: Angelina Sivakova
+Position: TESTER
+Salary per hour: 15.0
+Gender: NONBINARY
+, ID: 2
+Name: Nastya Vishneva
+Position: MANAGER
+Salary per hour: 45.0
+Gender: FEMALE
+Bonus: 0.0
+, ID: 5
+Name: Melissa Evans
+Position: DEVELOPER
+Salary per hour: 45.0
+Gender: NONBINARY
+, ID: 3
+Name: Liza Ivanova
+Position: DEVELOPER
+Salary per hour: 50.0
+Gender: FEMALE
+, ID: 4
+Name: Vincent Tanyan
+Position: DEVELOPER
+Salary per hour: 50.0
+Gender: MALE
+]
